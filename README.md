@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**springroller2025/springroller2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm [springroller]
 
-Here are some ideas to get you started:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=springroller2025&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+
+## 📈 Coding Activity
+![Your GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark)
+
+## 🌱 Currently Learning
+- [x] Kubernetes
+- [ ] WebAssembly
+
+## 📫 How to reach me
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
